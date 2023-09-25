@@ -3,4 +3,5 @@
 void main() {
     printf("Hello. PGDC\n");
     printf("Linh tinh");
+    printf("Áodas");
 }
