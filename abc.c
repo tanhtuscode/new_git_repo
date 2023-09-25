@@ -5,4 +5,5 @@ void main() {
     printf("Hello. GDSC\n");
     printf("Linh tinh");
     printf("Áodas");
+    printf("AXSDSA");
 }
