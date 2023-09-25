@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void main() {
-    printf("Hello. PGDC\n");
+    printf("Hello. GDSC\n");
     printf("Linh tinh");
     printf("Áodas");
 }
